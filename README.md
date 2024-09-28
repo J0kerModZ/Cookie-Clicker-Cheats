@@ -1,6 +1,5 @@
 # Cookie-Clicker-Cheats
 ## Hello Thank you for using my cookie clicker cheats
-## FOR THE GAME [COOKIE CLICKER](https://cookieclicker.ee)
 
 # WHAT IS NEW
 - Auto Buy
@@ -10,6 +9,8 @@
 
 # Auto Buy
 - The auto clicker takes advantage of the function to buy items and repeats it every 1 interval it is also random and only trys if you have enough cookies
+
+## THIS SHOULD WORK FOR ANY COOKIE CLICKER ON THE WEB IF NOT LET ME KNOW AND I WILL FIX IT
 
 # MORE COMING SOON!
 http://j0kermodz.lol
