@@ -1,5 +1,6 @@
 # Cookie-Clicker-Cheats
 ## Hello Thank you for using my cookie clicker cheats
+## FOR THE GAME [COOKIE CLICKER](https://cookieclicker.ee)
 
 # WHAT IS NEW
 - Auto Buy
