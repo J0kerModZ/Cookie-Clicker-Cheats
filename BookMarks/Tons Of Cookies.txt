@@ -1,0 +1,1 @@
+javascript:(() => {    setInterval(() => {        Game.cookies = Game.cookies + 9999999999;    }, 0.1);})();
